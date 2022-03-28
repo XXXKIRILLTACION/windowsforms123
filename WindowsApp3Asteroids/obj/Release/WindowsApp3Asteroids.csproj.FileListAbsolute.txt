@@ -1,0 +1,16 @@
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\obj\Release\WindowsApp3Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Asteroid1.png
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Asteroid2.png
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Asteroid3.png
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Asteroid4.png
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Asteroid5.png
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Bullet.png
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Energy.png
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Ship.png
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Space.jpg
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\Images\Star.png
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\WindowsApp3Asteroids.exe.config
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\WindowsApp3Asteroids.exe
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\bin\Release\WindowsApp3Asteroids.pdb
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\obj\Release\WindowsApp3Asteroids.exe
+C:\Users\Жесть какая-та\Desktop\WindowsForm\3 laba\HomeWorkLesson3\WindowsApp3Asteroids\obj\Release\WindowsApp3Asteroids.pdb
