@@ -1,0 +1,11 @@
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe.config
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.pdb
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.AssemblyReference.cache
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Form1.resources
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Form2.resources
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Properties.Resources.resources
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.GenerateResource.cache
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.CoreCompileInputs.cache
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.exe
+C:\Users\Жесть какая-та\Desktop\WindowsForm\C-Level_1-master\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.pdb
